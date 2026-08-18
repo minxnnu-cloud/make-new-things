@@ -1,0 +1,13 @@
+{
+  "name": "make-new-things",
+  "owner": {
+    "name": "minxnnu-cloud"
+  },
+  "plugins": [
+    {
+      "name": "make-new-things",
+      "source": "./plugins/make-new-things",
+      "description": "Division-of-labor pipeline skills for people who subscribe to both Claude and ChatGPT — hand each model what it does best, and stop paying for rework loops."
+    }
+  ]
+}

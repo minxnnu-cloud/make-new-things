@@ -1,0 +1,7 @@
+data/
+*.log
+*.pyc
+__pycache__/
+.venv/
+node_modules/
+distribution.local.md

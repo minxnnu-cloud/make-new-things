@@ -1,0 +1,8 @@
+{
+  "name": "make-new-things",
+  "version": "0.1.0",
+  "description": "Run Claude and Codex as one pipeline: Claude owns facts, copy, and approval flow; Codex owns everything visual, prompts included. Plus the loop-control rules (styleframe-first, rework budgets, tree sync) that keep revision rounds from eating the project.",
+  "author": {
+    "name": "minxnnu-cloud"
+  }
+}

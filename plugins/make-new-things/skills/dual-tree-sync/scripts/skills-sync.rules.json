@@ -1,0 +1,14 @@
+{
+  "_comment": "Per-tree tokens for skills-sync. Kept out of the .ps1 because Windows PowerShell 5.1 reads a BOM-less .ps1 as ANSI and mangles non-ASCII literals, silently breaking the replacement. Keep each rule exact: a blanket '.agents/skills' rewrite would corrupt skills that name the other tree on purpose.",
+  "excluded": [],
+  "perTree": [
+    {
+      "from": "subagent_type:\"Codex\"",
+      "to": "subagent_type:\"claude\""
+    },
+    {
+      "from": "AGENTS.md",
+      "to": "CLAUDE.md"
+    }
+  ]
+}
